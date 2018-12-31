@@ -5,7 +5,7 @@
       <mapping pattern="name" type="PLAIN_TEXT" />
       <mapping pattern="ZJJ_UPLOAD_EXE_LOG" type="PLAIN_TEXT" />
       <mapping ext="txe" type="PLAIN_TEXT" />
-      <mapping ext="setting" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="XML" />
     </extensionMap>
   </component>
 </application>
