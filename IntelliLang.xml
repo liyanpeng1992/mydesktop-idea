@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>DateUtil.parseDate (org.opentsdb.client.util)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parseDate").withParameters("java.lang.String").definedInClass("org.opentsdb.client.util.DateUtil"))]]></place>
+    </injection>
+  </component>
+</application>

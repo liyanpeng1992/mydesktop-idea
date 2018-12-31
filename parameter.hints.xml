@@ -1,0 +1,13 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="java.lang.String.split(regex)" />
+        <added pattern="org.apache.commons.io.FileUtils.readLines(file,encoding)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>

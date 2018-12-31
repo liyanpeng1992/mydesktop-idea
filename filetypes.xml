@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="name" type="PLAIN_TEXT" />
+      <mapping pattern="ZJJ_UPLOAD_EXE_LOG" type="PLAIN_TEXT" />
+      <mapping ext="txe" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
