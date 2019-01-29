@@ -17,6 +17,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -183,6 +191,14 @@
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+K'</ShortCut>
+          <Description>Push...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -1134,7 +1150,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
