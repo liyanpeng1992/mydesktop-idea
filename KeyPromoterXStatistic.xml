@@ -838,7 +838,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>17</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1135,14 +1135,6 @@
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="设置(T)...">
-        <Item>
-          <IdeaActionID>ShowSettings</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+S'</ShortCut>
-          <Description>设置(T)...</Description>
-          <Count>8</Count>
         </Item>
       </Statistic>
     </option>
