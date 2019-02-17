@@ -17,14 +17,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Commit...">
-        <Item>
-          <IdeaActionID>CheckinProject</IdeaActionID>
-          <ShortCut>'Ctrl+K'</ShortCut>
-          <Description>Commit...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -78,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>163</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -190,15 +182,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>31</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Push...">
-        <Item>
-          <IdeaActionID>Vcs.Push</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+K'</ShortCut>
-          <Description>Push...</Description>
-          <Count>3</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -854,7 +838,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>15</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1150,7 +1134,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
