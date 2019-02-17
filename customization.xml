@@ -2,12 +2,17 @@
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
     <group value="ToggleProjectInspectionAction" is_action="true" action_type="-1" position="17">
       <path value="root" />
-      <path value="Main Toolbar" />
+      <path value="主工具栏" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CreateLibraryFromFile" is_action="true" action_type="1" position="17">
+    <group value="RevealIn" is_action="true" action_type="1" position="17">
       <path value="root" />
-      <path value="Main Toolbar" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="主工具栏" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
